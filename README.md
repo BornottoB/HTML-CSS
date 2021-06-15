@@ -1,2 +1,2 @@
 # HTML 
-Example of "Page of myself"
+Example of "About me" page
