@@ -1,0 +1,36 @@
+.card {
+    width: 400px;
+    margin: 50px auto;
+    background-color: #fff;
+    box-shadow: 0 10px 20px #ccc; 
+    border-radius: 10px;
+    padding: 20px;
+}
+body {
+    margin: 0;
+    background: url("../img/pattern.png")
+}
+.card-photo {
+    display:block;
+    width: 200px; 
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color: #f00;
+} 
+.card-text{
+    font-size: 14px;
+}
+.card-subtitle{
+    font-size: 20;
+    color:#2d03ad; 
+}
+.card-list{
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+}
