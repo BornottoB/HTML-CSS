@@ -1,2 +1,2 @@
 # HTML 
-Example
+Example of "Page of myself"
